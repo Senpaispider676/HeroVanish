@@ -1,0 +1,10 @@
+# Made with love by IamNotHeroGamez
+
+settings:
+  can-get-damaged: false
+  can-harm-others: false
+  silent-chests: true
+
+messages:
+  leave-msg: "&e%player% has left the game."
+  welcome-msg: "&e%player% has joined the game."
